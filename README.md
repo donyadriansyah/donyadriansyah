@@ -5,6 +5,6 @@
 - 📫 How to reach me email : donyadriansyah2704@gmail.com
 
 <!---
-donyadriansyah/donyadriansyah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+donyadriansyah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
