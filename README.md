@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @donyadriansyah
 - 👀 I’m interested in science
-- 🌱 I’m currently learning earthquake
-- 💞️ I’m looking to collaborate on seismology
+- 🌱 I’m currently learning seismology and seismotectonics
+- 💞️ I’m looking to collaborate on seismology, seismotectonics, and geodynamics
 - 📫 How to reach me email : donyadriansyah2704@gmail.com
 
 <!---
